@@ -3,8 +3,10 @@
 
 <div align="center">
   - 🌱 I’m currently learning **Javascript, PHP and Framework Tailwindcss**
-  <br/>
-  - 👨‍💻 My Web Portfolio [https://xzaibrahmim.github.io/X-Porto-dev/](https://xzaibrahmim.github.io/X-Porto-dev/)
+</div>
+<br/>
+<div align="center">
+    - 👨‍💻 My Web Portfolio [https://xzaibrahmim.github.io/X-Porto-dev/](https://xzaibrahmim.github.io/X-Porto-dev/)
 </div>
  
 
