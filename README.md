@@ -12,7 +12,7 @@
  
 
   
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=xzaibrahmim&theme=transparent&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
