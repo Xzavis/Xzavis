@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xza Abdul Malik Ibrahim</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<div style="align:center">
+<div align="center">
   - 🌱 I’m currently learning **Javascript, PHP and Framework NEXT JS**
   - 👨‍💻 All of my projects are available at [https://xzaibrahmim.github.io/X-Porto-dev/](https://xzaibrahmim.github.io/X-Porto-dev/)
   - 📫 How to reach me **xzaabdulmalikibrahim@gmail.com**
