@@ -2,11 +2,11 @@
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <div align="center">
-  - 🌱 I’m currently learning Javascript, PHP and Framework Tailwindcss
+  - 🌱 I’m currently learning **Javascript, PHP and Framework Tailwindcss**
 </div>
 <br/>
 <div align="center">
-   - 👨‍💻 All of my projects are available at [https://xzaibrahmim.github.io/X-Porto-dev/](https://xzaibrahmim.github.io/X-Porto-dev/)
+   - 👨‍💻 My Web Portfolio [https://xzaibrahmim.github.io/X-Porto-dev/](https://xzaibrahmim.github.io/X-Porto-dev/)
 </div>
  
 
