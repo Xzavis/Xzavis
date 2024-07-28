@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Xza Abdul Malik Ibrahim</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<div align="center">
-  - 🌱 I’m currently learning **Javascript, PHP and Framework NEXT JS**
-  - 👨‍💻 All of my projects are available at [https://xzaibrahmim.github.io/X-Porto-dev/](https://xzaibrahmim.github.io/X-Porto-dev/)
-  - 📫 How to reach me **xzaabdulmalikibrahim@gmail.com**
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</div>
+
+  <h1 align="center"> - 🌱 I’m currently learning **Javascript, PHP and Framework Tailwindcss**</h1>
+  <h1 align="center"> - 👨‍💻 All of my projects are available at [https://xzaibrahmim.github.io/X-Porto-dev/](https://xzaibrahmim.github.io/X-Porto-dev/)</h1>
+  <h1 align="center"> - 🌱 I’m currently learning **Javascript, PHP and Framework NEXT JS**</h1>
+  <a align="center" href="xzaabdulmalikibrahim@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  
 
 
 
