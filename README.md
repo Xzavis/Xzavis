@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <div align="center">
-  - 🌱 I’m currently learning <h3>Javascript, PHP and Framework Tailwindcss</h3>
+  - 🌱 I’m currently learning **Javascript, PHP and Framework Tailwindcss**
 </div>
 <br/>
 <div align="center">
