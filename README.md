@@ -2,11 +2,11 @@
 
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<h3 align="center>🌱 I’m currently learning **Javascript, PHP and Framework Tailwind Css** </h3>
+<h5 align="center>🌱 I’m currently learning **Javascript, PHP and Framework Tailwind Css** </h5>
 
-<h3>👨‍💻 All of my projects are available at [https://xzaibrahmim.github.io/X-Porto-dev/](https://xzaibrahmim.github.io/X-Porto-dev/) </h3>
+<h5 align="center>👨‍💻 All of my projects are available at [https://xzaibrahmim.github.io/X-Porto-dev/](https://xzaibrahmim.github.io/X-Porto-dev/) </h5>
 
-<h3 align="center>📫 How to reach me **xzaabdulmalikibrahim@gmail.com** </h3>
+<h5 align="center>📫 How to reach me **xzaabdulmalikibrahim@gmail.com** </h5>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
