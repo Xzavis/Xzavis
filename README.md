@@ -26,6 +26,7 @@
   
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,figma)](https://skillicons.dev)
 </div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xzaibrahmim&theme=outrun&show_icons=true)
-
+<div align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xzaibrahmim&theme=outrun&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xzaibrahmim&hide_progress=true&theme=outrun)
+</div>
