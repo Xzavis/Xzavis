@@ -3,5 +3,5 @@
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <div align="center">  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xzaibrahmim&show_icons=true&bg_color=00000000)
 </div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xzaibrahmim&show_icons=true&bg_color=00000000)
