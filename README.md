@@ -5,5 +5,4 @@
 
 <div align="center">  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xzaibrahmim&show_icons=true&bg_color=00000000)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xzaibrahmim&langs_count=8)
 </div>
