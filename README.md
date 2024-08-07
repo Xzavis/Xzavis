@@ -2,6 +2,4 @@
 
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<div align="center">  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xzaibrahmim&hide_progress=true)
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xzaibrahmim&show_icons=true)
