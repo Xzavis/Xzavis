@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xzaibrahmim&show_icons=true&bg_color=00000000)
 
