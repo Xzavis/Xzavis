@@ -28,5 +28,5 @@
 </div>
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xzavis&theme=outrun&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xzaibrahmim&hide_progress=true&theme=outrun)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xzavis&theme=outrun&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xzavis&hide_progress=true&theme=outrun)
 </div>
