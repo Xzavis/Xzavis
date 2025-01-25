@@ -8,11 +8,11 @@
 <div align="center">
   🌱I'm Currently learning <b>Javascript, php, and Framework Tailwindcss</b> 
   <br>
-  🔗 My Web Portfolio](https://www.contoh.com)
+  🔗 My Web Portfolio [https://www.contoh.com](https://xzavis.github.io/X-Porto-dev/]
   <br>
+  
   🎮I also play the game The Finals
   
-  <br>
   <br>
   
 </div>
