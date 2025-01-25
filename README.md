@@ -8,7 +8,7 @@
   <br>
   🔗 My Web Portofolio 
   <br>
-  🎮I also play the game Once Human
+  🎮I also play the game The Finals
   
   <br>
   <br>
