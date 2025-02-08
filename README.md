@@ -28,7 +28,12 @@
 
   [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,figma)](https://skillicons.dev)
 </div>
+
 <div align="center">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xzavis&theme=outrun&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xzavis&hide_progress=true&theme=outrun)
+<div display="flex">
+ <img src="https://github-readme-stats.vercel.app/api?username=Xzavis&theme=outrun&show_icons=true&hide_border=true&count_private=true" alt="Xzavis's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Xzavis&theme=outrun&hide_border=true" alt="Xzavis's GitHub Stats" />
 </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xzavis&theme=outrun&show_icons=true&hide_border=true&layout=compact" alt="Xzavis's GitHub Stats" />
+</div>
+
