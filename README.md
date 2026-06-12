@@ -22,11 +22,11 @@
 <h2 align="center">Programming language and framework skills</h2>
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,cs,cpp)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,cs,cpp,c,py)](https://skillicons.dev)
 </div>
 <div align="center">
 
-  [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,figma)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,figma,mysql)](https://skillicons.dev)
 </div>
 
 <div align="center">
