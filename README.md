@@ -30,9 +30,14 @@
 </div>
 
 <div align="center">
+  <div display="flex">
+    <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6a28300f9e61e7fe137153bd?variant=dark&roadmaps=%2Cai-engineer%2Cai-agents%2Cfull-stack" alt="roadmap.sh"/></a>
+  </div>
+  <div display="flex">
+    <img src="https://streak-stats.demolab.com?user=Xzavis&theme=outrun&hide_border=true" alt="Xzavis's GitHub Stats" />
+  </div>
 <div display="flex">
  <img src="https://github-readme-stats.vercel.app/api?username=Xzavis&theme=outrun&show_icons=true&hide_border=true&count_private=true" alt="Xzavis's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Xzavis&theme=outrun&hide_border=true" alt="Xzavis's GitHub Stats" />
 </div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xzavis&theme=outrun&show_icons=true&hide_border=true&layout=compact" alt="Xzavis's GitHub Stats" />
 </div>
