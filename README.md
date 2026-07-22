@@ -13,7 +13,7 @@
 │  Role     : Aspiring Fullstack Developer                 │
 │  School   : University Trilogi (Software Engineering)    │
 │  Stack    : JavaScript, HTML5, CSS3, Tailwind CSS, MySQL │
-│  Focus    : Interactive Web Apps & Modern Frameworks     │
+│  Focus    : Interactive Web Apps & AI Enthusiast         │
 └──────────────────────────────────────────────────────────┘
 ```
 
