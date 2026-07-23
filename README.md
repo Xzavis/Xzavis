@@ -1,11 +1,12 @@
 <div align="center">
 
 ```text
-                        ▀▀        
-██ ██ ▀▀▀██  ▀▀█▄ ██ ██ ██  ▄█▀▀▀ 
- ███    ▄█▀ ▄█▀██ ██▄██ ██  ▀███▄ 
-██ ██ ▄██▄▄ ▀█▄██  ▀█▀  ██▄ ▄▄▄█▀ 
-                                  
+                                                                                                  
+▄████▄ █████▄ ▄████▄ ██  ██ ██████   ██▄  ▄██ ██████ 
+██▄▄██ ██▄▄██ ██  ██ ██  ██   ██     ██ ▀▀ ██ ██▄▄   
+██  ██ ██▄▄█▀ ▀████▀ ▀████▀   ██     ██    ██ ██▄▄▄▄ 
+      
+                                                                                                           
 ┌──────────────────────────────────────────────────────────┐
 │  Xza Abdul Malik Ibrahim (@Xzavis)                       │
 ├──────────────────────────────────────────────────────────┤
@@ -33,6 +34,17 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
+<p align="center">
+  <strong>
+    Connect with Me
+  </strong>
+</p>
+<p align="center">
+  <a href="mailto:emailanda@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://linkedin.com/in/Xzavis"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/Xzavis"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
+
 ---
 
 ### Featured Projects
@@ -46,8 +58,8 @@
 ### Currently Learning & Exploring
 
 - **Async JavaScript & Node.js**: Advanced asynchronous programming and event-driven architecture
-- **Tailwind CSS**: Scalable design systems and component architecture
-- **Backend Systems**: Modern PHP and RESTful API development
+- **AI Enthusiast**: skilled in AI automation, agentic tools, prompting, and RAG architecture.
+- **Backend Systems**: MySQL and RESTful API development
 
 ---
 
@@ -56,14 +68,4 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Xzavis&theme=outrun&show_icons=true&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Xzavis&theme=outrun&show_icons=true&hide_border=true&layout=compact" width="48%" />
-</p>
-
----
-
-### Connect with Me
-
-<p align="center">
-  <a href="mailto:emailanda@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://linkedin.com/in/Xzavis"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/Xzavis"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
