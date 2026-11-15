@@ -8,7 +8,7 @@
       
                                                                                                            
 ┌──────────────────────────────────────────────────────────┐
-│  Xza Abdul Malik Ibrahim (@Xzavis)                       │
+│  (@Xvis)                                                 │
 ├──────────────────────────────────────────────────────────┤
 │  School  : University Trilogi (informatics engineering)  │
 │  Stack   : JavaScript, Python, MySQL, Langflow, AI Agent │
