@@ -10,11 +10,9 @@
 ┌──────────────────────────────────────────────────────────┐
 │  Xza Abdul Malik Ibrahim (@Xzavis)                       │
 ├──────────────────────────────────────────────────────────┤
-│  OS       : Windows 11                                   │
-│  Role     : Aspiring Fullstack Developer                 │
-│  School   : University Trilogi (Software Engineering)    │
-│  Stack    : JavaScript, HTML5, CSS3, Tailwind CSS, MySQL │
-│  Focus    : Interactive Web Apps & AI Enthusiast         │
+│  School  : University Trilogi (informatics engineering)  │
+│  Stack   : JavaScript, Python, MySQL, Langflow, AI Agent │
+│  Focus   : Build Tools AI & AI Enthusiast                │
 └──────────────────────────────────────────────────────────┘
 ```
 
